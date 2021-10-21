@@ -1,0 +1,111 @@
+
+.App{
+  background-image: url(https://images.unsplash.com/photo-1567882252470-9281b55172ac?ixid=MnwxMjA3fDBwwfHwwfHw%3D&ixlib=rb-1.2.1&w=1000&q=80);
+  background-repeat: no-repeat;
+  background-size: 40%;
+  background-position:center top;
+
+  /*border: 2px solid black;*/
+  padding: 10px;
+  border-radius: 50px 20px;
+  border:10px solid ;
+  background-color:skyblue;
+
+margin-left: px;
+  width:1250px;
+  height: 1500px;
+
+  
+}
+
+.border {
+  width: 100%;
+  margin-right: 29px;
+  margin-top: -9px;
+  margin-left: 275px;
+  height: 50%;
+  border: 2pxsolid white;
+  padding: 16px
+;
+  border-radius: 65px -11px;
+}
+
+
+.globe{
+  position:relative;
+  
+  color:white;
+}
+ 
+.header{
+  position:relative;
+  left: 190px;
+  top: 160px;
+  color:white;
+}
+.username{
+  position:relative;
+  left: 190px;
+  top: 150px;
+  
+  /* color:white; */
+  border: 3px solid white;
+  border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color:transparent;
+}
+.placeholder {
+  /*color: black;*/
+  opacity: 1; /* Firefox */
+}
+.email{
+  position:relative;
+  left: 22px;
+  top: 180px;
+  border:3px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color:transparent;
+  /*color:white*/;
+}
+.password{
+  position:relative;
+  left:188px;
+  top:190px;
+  
+  border:3px solid white;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  background-color:transparent
+  /*color:white*/;
+}
+.button{
+  position: relative;
+    left: 20px;
+    top: 250px;
+    font-size: 125%;
+    padding: 0px 56px;
+}
+.paragraph{
+  position:relative;
+  left:120px;
+  top:240px;
+  font-size: 100%;
+  color:white;
+  
+  /* text-underline-position: white; */
+
+}
+
+.col{
+  height: 50%;
+  width: 34%;
+  
+  border-right: 50%;
+  border-left: 50%;
+  margin-left: 100px;
+  border-right:350px;
+}
